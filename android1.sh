@@ -1,7 +1,4 @@
 tput setaf 2; echo "Please read Readme file before exicuting this program."; tput sgr0
-tput setaf 1; echo "Installing important packages to your system."; tput sgr0
-sudo apt-get install  android-tools-adb
-sudo apt install aapt
 adb devices
 adb shell input keyevent KEYCODE_APP_SWITCH
 adb shell input keyevent 20

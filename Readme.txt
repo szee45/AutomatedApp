@@ -1,5 +1,8 @@
 Instaructions to run the script:
 
+# To rum this script properly you should manually install following packages:
+    sudo apt-get install  android-tools-adb
+    sudo apt install aapt
 # You should give password to the scipt after running it to insatll adb and aapt packages in your computer.
 # Internet conneciton is preferable to install all the required packages.
 # Your device should be unlock.
