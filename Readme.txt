@@ -1,5 +1,5 @@
 Instaructions to run the script:
-
+Updated file is present
 # To rum this script properly you should manually install following packages:
     sudo apt-get install  android-tools-adb
     sudo apt install aapt
