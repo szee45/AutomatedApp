@@ -10,3 +10,4 @@ Instaructions to run the script:
 # This program will remove your most recent activity from the recent activity list.
 # Your trip will be saved in the gallery and in your current directory after completion of booking.
 # Don't touch your phone while the script is running.
+# Ready to test the app and uploading on the git..
